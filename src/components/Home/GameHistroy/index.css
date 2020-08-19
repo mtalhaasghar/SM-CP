@@ -1,0 +1,25 @@
+.Main .background{
+    background-image: url('./back.jpg');
+    height: 800px;
+    background-attachment: fixed;
+    margin-top: 0px;
+}
+.Main .background .overlaySection{
+    height: 800px;
+    background: #0d3b66e3;
+    display: block;
+    padding-left: 0cm;
+}
+.Main .background .overlaySection h1{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+.Main .background .overlaySection img{
+    height:185px;
+    margin-left: 0px;
+}
+.Main .background .overlaySection .secondRow{
+    padding: 90px;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.LoginStudent{     
+    display: block;
+    background: rgba(230, 228, 228, 0.445);
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 1px solid red;
+    height: 490px;
+}
+
+.LoginStudent h3{
+    padding: 20px;
+    text-align: center;
+}
+.LoginStudent a{
+    text-decoration: none;
+    color: white;
+}

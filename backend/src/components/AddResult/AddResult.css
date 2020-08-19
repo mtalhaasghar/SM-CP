@@ -1,0 +1,12 @@
+.AddResultsContent{
+    margin-top: 30px;
+    justify-content: center;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.AddResultsContent textarea{
+    height: 100px;
+}
+.ButtonAddResults{
+    text-align: center;
+}

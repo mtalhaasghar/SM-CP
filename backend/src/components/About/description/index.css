@@ -1,0 +1,10 @@
+.AboutDescription{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.AboutDescription .AboutDescriptionRow2{
+    margin-top: 100px;
+}
+.AboutDescription .Description h5{
+    color: rgba(173, 173, 173, 0.781);
+}

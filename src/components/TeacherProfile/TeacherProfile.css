@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+.TeacherProfile{
+    display: flex;
+    justify-content: space-around;
+    margin: 28px 0px;
+}
+.TeacherProfileDetails{
+    display: flex;
+    justify-content: space-between;
+    width: 110%;
+}
+
+.input-container {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+  }
+  .input-container input {
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    border: 0;
+    outline: none;
+    color: #333;
+  }
+  
+.TeacherSportsDetails{
+  display: flex;
+    justify-content: space-between;
+    width: 110%;
+}
+  i {
+    margin: 0 10px;
+    color: #aaa;
+    cursor: default;
+  }

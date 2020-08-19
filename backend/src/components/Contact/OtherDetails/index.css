@@ -1,0 +1,37 @@
+.ContactOtherDetails{
+    background-color: #F8F9FA;
+    height: 700px;
+}
+.ContactOtherDetails  .ContactDetails{
+    display: block;
+    background-color: white;
+    block-size: 300px;
+    margin-top: 50px;
+    border:1px solid red;
+    border-radius: 10px;
+    padding: 20px;
+}
+.ContactOtherDetails .ContactDetails h4, h5{
+    font-weight: 100;
+}
+.ContactOtherDetails .ContactDetails a{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.61);
+}
+.ContactOtherDetails .ContactDetails a:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color:red;
+} 
+.ContactOtherDetails .MailingBackgrounnd{
+display: block;
+margin-top: 50px;
+background-color: white;
+padding: 30px;
+height: 600px;
+border:1px solid red;
+border-radius: 10px;
+}
+.ContactOtherDetails .MailingBackgrounnd textarea{
+ height: 100px;
+}

@@ -1,0 +1,22 @@
+.Compose{
+    background-color: #F8F9FA;
+    height: 700px;
+}
+.Compose .Mailing h3{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+.Compose .MailingBackgrounnd{
+display: block;
+margin-top: 50px;
+margin-bottom: 50px;
+background-color: white;
+padding: 30px;
+height: 600px;
+border:1px solid red;
+border-radius: 10px;
+}
+.Compose .MailingBackgrounnd textarea{
+ height: 100px;
+}

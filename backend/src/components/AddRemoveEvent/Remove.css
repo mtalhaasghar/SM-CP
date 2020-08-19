@@ -1,0 +1,13 @@
+.RemoveEventSpacer{
+    margin-top: 10px;
+}
+.AddRemoveButtons ul{
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+}
+.AddRemoveButtons li{
+flex: 1;
+color: white;
+text-align: center;
+}

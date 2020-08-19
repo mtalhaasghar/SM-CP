@@ -1,0 +1,22 @@
+.bro{
+    background-image: url(./Back.jpg);
+    background-attachment: fixed;
+    height: 600px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 300px;
+  }
+  .bro .container h1{
+      color: rgb(252, 252, 252);
+    text-align: center;
+    background-color: black;
+    padding-right: 100px;
+    margin-right: 980px;
+    height: 60px;
+}
+.bro .container p{
+    color: white;
+    padding-right: 800px;
+    font-size: large;
+    
+}

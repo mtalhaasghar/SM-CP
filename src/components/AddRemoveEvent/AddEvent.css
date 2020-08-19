@@ -1,0 +1,12 @@
+.AddEventContent{
+    margin-top: 30px;
+    justify-content: center;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.AddEventContent textarea{
+    height: 100px;
+}
+.ButtonAddEvent{
+    text-align: center;
+}

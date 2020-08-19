@@ -1,0 +1,8 @@
+
+.RegisteredStudentsListTable{
+    margin-top: 10px;
+}
+.AddStudentButton{
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}

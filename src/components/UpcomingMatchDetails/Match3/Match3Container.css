@@ -1,0 +1,10 @@
+.Match3Description{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.Match3Description .Match3DescriptionRow2{
+    margin-top: 100px;
+}
+.Match3Description .Description h5{
+    color: rgba(173, 173, 173, 0.781);
+}

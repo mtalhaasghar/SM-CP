@@ -1,0 +1,66 @@
+[
+    {
+        "Name":"Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department": "IT"
+    },
+    {
+        "Name":"Ghulam Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department":"Zoology"
+    },
+    {
+        "Name":"Hassan Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Badminton",
+        "Department": "Chemistry"
+    },
+    {
+        "Name":"Kashan Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department": "Chemistry"
+    },
+    {
+        "Name":"Bilal Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Football",
+        "Department": "Chemistry"
+    },
+    {
+        "Name":"Hassan Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department": "Chemistry"
+    },
+    {
+        "Name":"Hassan Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department": "Chemistry"
+    },
+    {
+        "Name":"Hassan Ali",
+        "CNIC":"35202-5477281-5",
+        "Email":"aliali123@gmail.com",
+        "Phone":"03224479052",
+        "Field of Sports":"Cricket",
+        "Department": "Chemistry"
+    }
+]

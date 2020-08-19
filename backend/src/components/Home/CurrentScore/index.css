@@ -1,0 +1,42 @@
+.recent{
+    height: 350px;
+    padding-top: 20px;
+}
+.recent .Category .sportsName{
+    text-align: Center;
+}
+.recent .row1{
+    display: block;
+    border: 1px solid rgba(163, 163, 163, 0.603); 
+    border-radius: 10px;  
+    background-color: #F9FAFB;
+}
+.recent .Category .sportsName h2{
+    font-weight: bold;
+}
+.recent .row2{
+    background-color: #F9FAFB;
+    text-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    border: 1px solid rgba(163, 163, 163, 0.603); 
+    border-radius: 10px;  
+    margin-top: 10px;
+
+}
+.recent .row2 .teamLogo img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.recent .row2 h3{
+    font-weight: 700;
+    color: rgb(48, 47, 47);
+}
+.recent .row2 h5{
+    color: rgb(228, 45, 21);
+}
+.recent .row2 p{
+    font-weight: 700;
+    color: rgba(7, 102, 7, 0.863);
+}

@@ -1,0 +1,26 @@
+/* @import("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap"); */
+
+.topBar{
+    font-family: 'Poppins', sans-serif;
+    /* border-bottom: 1px solid #000; */
+    color: #545b62;
+    font-weight: 500px;
+}
+.topBar .text-left{
+    padding-left: 0px;
+}
+.topBar .socialMedia, .topBar .contactDetails{
+    list-style: 'none';
+    margin-top: 25px;
+}
+.topBar .socialMedia{
+    padding-left: 20px;
+}
+.topBar .socialMedia .listItems, .topBar .contactDetails .listItems{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.topBar .socialMedia .listItems .fa, .topBar .contactDetails .listItems .fa{
+    font-size: 20px;
+}

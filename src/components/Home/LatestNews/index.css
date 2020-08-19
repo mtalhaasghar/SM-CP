@@ -1,0 +1,22 @@
+.news{
+    height: 600px;
+}
+.news .heading{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.news .cardAlign .news1 {
+    text-align: center;
+    padding-left: 45px;
+    padding-top: 30px;
+}
+.news .cardAlign .news1 .inner{
+    overflow: hidden;
+}
+.news .cardAlign .news1 .inner Img{
+    transition: all 0.5s;
+}
+.news .cardAlign .news1 .inner:hover Img{
+    transform: scale(1.5);
+}

@@ -1,0 +1,43 @@
+.CreateScheduleBackground{
+    background: #F9F9F9;
+    height: 500px;
+    margin-top: 30px;
+}
+.CreateScheduleTitle{
+    justify-content: center;
+}
+.CreateScheduleEventName{
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.CreateScheduleTime .Time{
+    display: flex;
+}
+.CreateScheduleTime .Time .EndTimeSpacer{
+    padding-left: 10px;
+}
+.CreateScheduleTime{
+    display: block;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.CreateScheduleTime h4{
+    font-weight: bolder;
+}
+.CreateScheduleDate .CreateScheduleDateInline{
+    display: flex;
+}
+.CreateScheduleDate .CreateScheduleDateInline .CreateScheduleEndDateSpacer{ 
+    padding-left: 50px;
+}
+.CreateScheduleDate{
+    margin-left: 190px;
+    display: block;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.CreateScheduleBackground .CreateScheduleButton{
+    margin-top: 3rem;
+    justify-content: flex-end;
+}

@@ -1,0 +1,34 @@
+.header{
+ font-family: 'Poppins' , sans-serif;
+ background: #000;
+ color: #ffffff;
+ position: relative;
+ top: 5px;
+ height: 66px;
+ margin-bottom: 25px;
+}
+.header .left-nevigation .logo{
+    position: absolute;
+    height: 120px;
+    /* width: 120px; */
+    bottom: -32px;
+}
+.header .item{
+    list-style-type: none;
+}
+.header .item a{
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.header .menu-items{
+    padding-top: 20px;
+}
+.header .menu-items .item{
+    display: inline;
+    padding: 10px;
+}
+/* .header .right-nevigation{
+
+} */

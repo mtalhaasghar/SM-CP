@@ -1,0 +1,8 @@
+
+.AddedStudentsListTable{
+    margin-top: 10px;
+}
+.RemoveStudentButton{
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}

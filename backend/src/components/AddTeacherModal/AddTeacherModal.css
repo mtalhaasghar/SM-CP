@@ -1,0 +1,20 @@
+.AddTeacherModal .AddTeacherModalcloseButton a{
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.AddTeacherModal .AddTeacherModalcloseButton a:hover{
+    color: red;
+}
+.AddTeacherModal .AddTeacherModalListItems a{
+    text-decoration: none;
+}
+.AddTeacherModal .AddTeacherModalListItems a:hover{
+    color: gray;
+}
+.AddTeacherModal .AddTeacherModalListItems{
+    list-style: none;
+    text-align: center;
+    padding-bottom: 10px;
+}

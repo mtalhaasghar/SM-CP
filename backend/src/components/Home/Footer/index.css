@@ -1,0 +1,68 @@
+.FooterBack{
+    background-color: #333333;
+    height: 650px;
+    padding-top: 70px;
+}
+.FooterBack h3{
+    color: white;
+}
+.FooterBack p{
+    padding-top: 20px;
+    color:#8a8c8d;
+    padding-bottom: 30px;
+}
+.FooterBack .row .about .eventDetails .event{
+    list-style-type: none;
+    padding: 10px;
+}
+.FooterBack .row .about .eventDetails .event a{
+    padding-left: 20px;
+    color:#8a8c8d;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.FooterBack .row .about .eventDetails .event a:hover{
+    color: white;
+}
+.FooterBack .row .menu .pageLink .others .eventDetails{
+    padding-left: 80px;
+    list-style: none;
+}
+.FooterBack .row .menu .pageLink{
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 56px;
+}
+.FooterBack .row .menu .pageLink a{
+    color:#8a8c8d;
+    transition: 0.5s;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.FooterBack .row .menu .pageLink a:hover{
+    color: white;
+}
+.FooterBack .row .menu .pageLink .info .eventDetails{
+    list-style: none;
+}
+.FooterBack .row .plugs .listItems{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    font-size: 30px;
+    color: #8a8c8d;
+    transition: 0.5s;
+}
+.FooterBack .row .plugs .listItems:hover{
+color: white;
+}
+.FooterBack .row .youtube .form label{
+    padding-right: 10px;
+}
+.FooterBack .row .youtube .video{
+    background-image: url('./img4.jpg');
+    height: 225px;
+    display: block;
+    border-radius: 4px;
+}

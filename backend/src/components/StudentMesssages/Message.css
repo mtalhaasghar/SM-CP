@@ -1,0 +1,11 @@
+.ComposeMessage img{
+    height: 40px;
+    width: 40px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.ComposeMessage{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}

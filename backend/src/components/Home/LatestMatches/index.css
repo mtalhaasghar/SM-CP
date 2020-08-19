@@ -1,0 +1,205 @@
+.latestMatch{
+    background: hsl(210, 17%, 98%);
+    margin-bottom: 0px;
+    height: 600px;
+    margin-top: -70px;
+}
+.latestMatch .ContainerClass p{
+    font-weight: 800 !important;
+}
+.latestMatch .ContainerClass .MatchNumbers .number{
+    display: inline-block;
+    padding-right:10px;
+}
+.latestMatch .ContainerClass .Match{
+    margin-left: -25px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* .latestMatch .ContainerClass .Match .number a{ */
+    /* color: #000 !important; */
+    /* text-decoration: none; */
+    /* border-bottom: 2px solid #f23a2e; */
+/* } */
+.latestMatch .ContainerClass .MatchNumbers{
+    display: flex;
+    flex-direction: row;
+    padding-right: 830px;
+}
+.latestMatch .ContainerClass .Animation{
+    text-align: center;
+    margin-top: 30px;
+}
+.latestMatch .ContainerClass .Animation .block1{
+    border: 1px solid;
+    border-color: #F9FAFB;
+    padding:30px;
+	background: white;
+    margin: 0px;
+    transition: 0.5s;
+}
+.latestMatch .ContainerClass .Animation .block1:hover{
+    transform: scale(1.1);
+    background: #ffffff;
+    z-index: 2;
+    box-shadow: 2px 2px 2px rgba(51, 51, 51, 0.438);
+    
+}
+.latestMatch .ContainerClass .Animation .block1 .leftTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block1 .leftTeam .Text{
+    padding-left: 20px;
+    text-align: left;
+}
+.latestMatch .ContainerClass .Animation .block1 .leftTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block1 .leftTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}
+.latestMatch .ContainerClass .Animation .block1 .Matches h3{
+    display: block;
+    background-color: #000;
+    height: 40px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    margin:auto;
+}
+
+.latestMatch .ContainerClass .Animation .block1 .rightTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block1 .rightTeam{
+    display: inline-flex;
+    padding-left: 25%;
+}
+.latestMatch .ContainerClass .Animation .block1 .rightTeam .Text{
+    text-align: right;
+    margin-left: -160px;
+}
+.latestMatch .ContainerClass .Animation .block1 .rightTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block1 .rightTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}
+.latestMatch .ContainerClass .Animation .block2{
+    border: 1px solid;
+    border-color: #F9FAFB;
+    padding:30px;
+	background: white;
+    margin: 0px;
+    transition: 0.5s;
+}
+.latestMatch .ContainerClass .Animation .block2:hover{
+    transform: scale(1.1);
+    background: #ffffff;
+    z-index: 2;
+    box-shadow: 2px 2px 2px rgba(51, 51, 51, 0.438);
+    
+}
+
+.latestMatch .ContainerClass .Animation .block2 .leftTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block2 .leftTeam .Text{
+    text-align: left;
+    padding-left: 20px;
+}
+.latestMatch .ContainerClass .Animation .block2 .leftTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block2 .leftTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}
+.latestMatch .ContainerClass .Animation .block2 .Matches h3{
+    display: block;
+    background-color: #000;
+    height: 40px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    margin:auto;
+}
+.latestMatch .ContainerClass .Animation .block2 .rightTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block2 .rightTeam{
+    display: inline-flex;
+    padding-left: 25%;
+}
+.latestMatch .ContainerClass .Animation .block2 .rightTeam .Text{
+    text-align: right;
+    margin-left: -160px;
+}
+.latestMatch .ContainerClass .Animation .block2 .rightTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block2 .rightTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}
+.latestMatch .ContainerClass .Animation .block3{
+    border: 1px solid;
+    border-color: #F9FAFB;
+    padding:30px;
+	background: white;
+    margin: 0px;
+    transition: 0.5s;
+}
+.latestMatch .ContainerClass .Animation .block3:hover{
+    transform: scale(1.1);
+    background: #ffffff;
+    z-index: 2;
+    box-shadow: 2px 2px 2px rgba(51, 51, 51, 0.438);
+    
+}
+
+.latestMatch .ContainerClass .Animation .block3 .leftTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block3 .leftTeam .Text{
+    padding-left: 20px;
+    text-align: left;
+}
+.latestMatch .ContainerClass .Animation .block3 .leftTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block3 .leftTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}
+.latestMatch .ContainerClass .Animation .block3 .Matches h3{
+    display: block;
+    background-color: #000;
+    height: 40px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    margin:auto;
+}
+.latestMatch .ContainerClass .Animation .block3 .rightTeam img{
+    height:60px;
+}
+.latestMatch .ContainerClass .Animation .block3 .rightTeam{
+    display: inline-flex;
+    padding-left: 25%;
+}
+.latestMatch .ContainerClass .Animation .block3 .rightTeam .Text{
+    text-align: right;
+    margin-left: -160px;
+}
+.latestMatch .ContainerClass .Animation .block3 .rightTeam .Text h5{
+    font-weight: 80;
+}
+.latestMatch .ContainerClass .Animation .block3 .rightTeam .Text .sub{
+    color: lightgrey;
+    font-weight: 70;
+}

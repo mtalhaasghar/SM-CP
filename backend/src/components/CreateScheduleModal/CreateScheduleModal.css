@@ -1,0 +1,20 @@
+.ScheduleModal .SchedulecloseButton a{
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.ScheduleModal .SchedulecloseButton a:hover{
+    color: red;
+}
+.ScheduleModal .ScheduleModalListItems a{
+    text-decoration: none;
+}
+.ScheduleModal .ScheduleModalListItems a:hover{
+    color: gray;
+}
+.ScheduleModal .ScheduleModalListItems{
+    list-style: none;
+    text-align: center;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,24 @@
+.ContactMain{
+    background-image: url(./Back.jpg);
+    height: 600px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 300px;
+    background-attachment: fixed;
+  }
+.ContactMain .ContactClass h1{
+      color: rgb(252, 252, 252);
+    text-align: center;
+    background-color: black;
+    padding-right: 100px;
+    margin-right: 950px;
+    height: 60px;
+    margin-left: 100px;
+}
+.ContactMain .ContactClass p{
+    color: white;
+    margin-left: 100px;
+    padding-right: 800px;
+    font-size: large;
+    
+}

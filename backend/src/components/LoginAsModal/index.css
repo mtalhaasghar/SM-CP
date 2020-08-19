@@ -1,0 +1,21 @@
+.LoginAs .closeButton a{
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.LoginAs .closeButton a:hover{
+    color: red;
+}
+.LoginAs .LoginAsListItems a{
+    color: black;
+    text-decoration: none;
+    font-weight: 900;
+}
+.LoginAs .LoginAsListItems a:hover{
+    color: gray;
+}
+.LoginAs .LoginAsListItems{
+    list-style: none;
+    text-align: center;
+}

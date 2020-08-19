@@ -1,0 +1,46 @@
+.new-Matches{
+  margin-bottom: 100px;
+}
+.post{
+    width: 350px;
+    height: 350px;
+    position: relative;
+    cursor: pointer;
+  }
+  .post:hover .post-s{
+    width: 350px;
+  }
+  .post img {
+    display: block;
+    width: 350px;
+    height: 350px;
+  }
+  .post-s{
+    width: 0px;
+    height: 350px;
+    background: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    overflow: hidden;
+    transition: 0.7s ease;
+  }
+  .post-s p{
+    color: #676768;
+    font-size: 20px;
+    padding: 10px 30px;
+    /* text-align: left; */
+  }
+  .post-s .heading{
+    color: white;
+    display: block;
+    font-size: 30px;
+    padding-top: 31px;
+    font-style: italic;
+  }
+  .post-s .button{
+    display: block;
+    ;
+  }
